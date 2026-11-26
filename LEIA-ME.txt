@@ -1,0 +1,16 @@
+DRA. VANESSA — SITE SEO OTIMIZADO + NOVO FAVICON
+
+ATENÇÃO: este pacote deriva da versão SEO otimizada produzida anteriormente,
+não do arquivo index(1).html enviado recentemente. O objetivo é manter as melhorias
+já feitas (canonical, Open Graph, imagens na pasta assets, etc.) e instalar o ícone.
+
+Para atualizar no GitHub:
+1. Extraia o ZIP.
+2. Substitua os arquivos da página e mantenha a pasta assets inteira.
+3. Adicione favicon.ico, favicon-32x32.png, favicon-192x192.png e apple-touch-icon.png.
+4. NÃO exclua o arquivo de verificação de propriedade do Search Console.
+5. Faça commit e confirme o deploy na Vercel.
+6. Abra /favicon.ico no endereço público e atualize a aba com Ctrl+Shift+R.
+
+Se houver alterações recentes no site que não estejam neste pacote,
+integre somente os arquivos de favicon e as novas tags <link> ao código já publicado.
