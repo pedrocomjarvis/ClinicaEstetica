@@ -1,0 +1,31 @@
+ATUALIZAÇÃO SEO LOCAL — DRA. VANESSA | 26/11/2026
+
+O pacote inclui:
+- index.html (página inicial com texto local e cards em HTML estático, mais links de tratamentos no JavaScript)
+- 3 páginas de tratamento: toxina botulínica, harmonização facial e harmonização glútea
+- paginas-servicos.css (visual responsivo das páginas novas)
+- sitemap.xml com as 4 URLs
+- robots.txt, imagem OG, favicon e pasta assets com as imagens originais do pacote SEO
+
+COMO PUBLICAR NO GITHUB / VERCEL
+1. Extraia o ZIP. Envie os arquivos e a pasta assets PARA A RAIZ DO REPOSITÓRIO.
+2. Substitua apenas os arquivos com o mesmo nome. Mantenha qualquer arquivo de verificação do Google, arquivos personalizados e outros conteúdos não presentes neste ZIP.
+3. Não envie apenas index.html: envie tambem paginas-servicos.css, paginas individuais e pasta assets.
+4. Faça Commit changes e aguarde o deploy da Vercel na branch de produção.
+5. Verifique:
+   https://dravanessa-esteticaesaude.vercel.app/
+   https://dravanessa-esteticaesaude.vercel.app/toxina-botulinica-guarulhos.html
+   https://dravanessa-esteticaesaude.vercel.app/harmonizacao-facial-guarulhos.html
+   https://dravanessa-esteticaesaude.vercel.app/harmonizacao-glutea-guarulhos.html
+   https://dravanessa-esteticaesaude.vercel.app/sitemap.xml
+6. Confira as 3 páginas no computador e celular; clique em cada botão de WhatsApp.
+7. No Search Console, envie o sitemap.xml atualizado e inspecione cada uma das 3 novas URLs depois da publicação.
+
+ANTES DE PUBLICAR, CONFIRME COM A DRA. VANESSA:
+- Formação e registro profissional apresentados no site;
+- Se todos os procedimentos e nomes comerciais citados estão realmente disponíveis;
+- Se existe autorização para uso das imagens e comparativos de antes e depois;
+- Horários e informações do estabelecimento.
+
+Não alteramos o domínio ou o arquivo de verificação do Google. Não é necessário criar Perfil da Empresa no Google para indexar estas páginas.
+A indexação e o posicionamento dependem do Google e não são garantidos.
