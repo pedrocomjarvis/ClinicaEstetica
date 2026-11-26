@@ -1,0 +1,23 @@
+SITE DRA. VANESSA - PACOTE DE SEO E IMAGENS OTIMIZADO
+
+COMO PUBLICAR NO GITHUB + VERCEL
+1) Descompacte este arquivo ZIP no computador.
+2) No repositório atual do site no GitHub, substitua o index.html antigo pelo index.html deste pacote.
+3) Envie TAMBÉM a pasta assets (44 imagens), o arquivo og-image.jpg, o robots.txt e o sitemap.xml.
+4) Preserve os nomes e a estrutura das pastas. Não envie o ZIP como se fosse uma página web.
+5) Confirme na Vercel que o novo deploy foi concluído.
+6) Confira os endereços abaixo no navegador:
+   https://dravanessa-esteticaesaude.vercel.app/
+   https://dravanessa-esteticaesaude.vercel.app/assets/hero.jpg
+   https://dravanessa-esteticaesaude.vercel.app/og-image.jpg
+   https://dravanessa-esteticaesaude.vercel.app/sitemap.xml
+7) Em Search Console, inspecione a URL da página inicial e, se for preciso, solicite reindexação após a alteração.
+
+ATENÇÃO
+- Não remova seu arquivo de verificação HTML do Google já existente no GitHub.
+- Caso queira, mantenha o llms.txt existente (é opcional).
+- Não inventamos endereço físico, telefone, horários ou novos serviços. Verifique se os horários atuais no rodapé estão corretos.
+- Os depoimentos fictícios do arquivo original foram substituídos por aviso neutro até haver relatos reais autorizados.
+- Os serviços e imagens originais foram preservados.
+- A URL principal configurada é https://dravanessa-esteticaesaude.vercel.app/
+
