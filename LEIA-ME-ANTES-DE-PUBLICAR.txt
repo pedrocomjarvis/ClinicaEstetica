@@ -1,0 +1,47 @@
+PROJETO DRA. VANESSA — SEO LOCAL + GEO — https://dravanessacacao.vercel.app/
+
+ORIGEM
+- A página inicial (index.html) foi feita A PARTIR DO ÚLTIMO ARQUIVO ENVIADO: index(2).html.
+- O design, o conteúdo novo sobre HIFU, a seção Como agendar, imagens e links de WhatsApp foram preservados.
+- Todas as 44 imagens incorporadas foram extraídas para assets/ mantendo os pixels originais.
+- As três páginas de tratamentos vieram do pacote anterior e foram atualizadas para o novo domínio.
+
+PUBLICAÇÃO NO GITHUB + VERCEL
+1. Guarde uma cópia de segurança do repositório antes de trocar arquivos.
+2. Extraia este ZIP.
+3. Copie TODO o conteúdo desta pasta para a RAIZ do repositório do site (não somente index.html).
+4. Preserve seu arquivo google...html do Search Console existente no repositório (não incluído neste pacote).
+5. Preserve outros arquivos especiais do projeto que não fazem parte do pacote.
+6. Faça o commit no ramo de produção e confirme o Deploy concluído na Vercel.
+7. Teste estas URLs no navegador:
+   https://dravanessacacao.vercel.app/
+   https://dravanessacacao.vercel.app/toxina-botulinica-guarulhos.html
+   https://dravanessacacao.vercel.app/harmonizacao-facial-guarulhos.html
+   https://dravanessacacao.vercel.app/harmonizacao-glutea-guarulhos.html
+   https://dravanessacacao.vercel.app/sitemap.xml
+   https://dravanessacacao.vercel.app/robots.txt
+   https://dravanessacacao.vercel.app/og-image.jpg
+8. Confira imagens, WhatsApp, filtros, galeria de resultados, menu e layout mobile.
+
+SEARCH CONSOLE
+- Adicione/verifique a propriedade Prefixo do URL: https://dravanessacacao.vercel.app/
+- Envie sitemap.xml com as quatro URLs após o Deploy.
+- Inspecione as URLs novas, e monitore indexação, consultas, impressões e cliques.
+
+MUDANÇA DE ENDEREÇO — MUITO IMPORTANTE
+- Antes: https://dravanessa-esteticaesaude.vercel.app/
+- Depois: https://dravanessacacao.vercel.app/
+- Se o endereço antigo continuar servindo o site, configure na Vercel um redirecionamento HTTP permanente 301/308 de cada URL antiga para a correspondente nova.
+- Não use uma regra de redirecionamento genérica que também afete o novo hostname, para evitar um loop de redirecionamentos.
+- Mantenha redirecionamentos e a propriedade antiga do Search Console durante a migração.
+- Não apague o endereço antigo antes de os redirecionamentos estarem funcionando.
+
+SEO / GEO
+- A URL canônica, Open Graph, metadados e dados estruturados do index foram atualizados.
+- A página inicial tem conteúdo local e links HTML reais para os tratamentos.
+- O sitemap contém as quatro páginas; as páginas de serviço têm canônicas e tags próprias.
+- llms.txt é opcional e não é uma exigência do Google para SEO ou respostas de IA. Não garante menções em IA.
+- Confirme com a Dra. Vanessa: formação, registro, serviços, disponibilidade, depoimentos, fotos de pacientes e conformidade das divulgações profissionais.
+- Não inventamos endereço completo nem telefone.
+
+Atenção: este pacote não modifica seu GitHub nem seu painel da Vercel automaticamente.

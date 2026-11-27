@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dravanessa-esteticaesaude.vercel.app/sitemap.xml
+Sitemap: https://dravanessacacao.vercel.app/sitemap.xml

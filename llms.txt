@@ -1,13 +1,17 @@
-# Estética e Saúde — Beleza Natural
+# Estética e Saúde — Beleza Natural / Dra. Vanessa Cação da Silva
 
-> Clínica de estética em Guarulhos, SP, com a biomédica esteta Dra. Vanessa Cação da Silva (CRBM1/SP 68840), especialista em emagrecimento, harmonização facial e corporal.
+Site oficial: https://dravanessacacao.vercel.app/
 
-## Informações
-- Localização: Guarulhos, SP, Brasil
-- Profissional: Dra. Vanessa Cação da Silva, Biomédica Esteta
-- Procedimentos: Toxina botulínica, Botox masculino, Harmonização glútea
-- Agendamento: WhatsApp — https://wa.me/message/TGUZO6PTKN33A1
-- Instagram: https://www.instagram.com/esteticaesaudebelezanatural/
+A Dra. Vanessa Cação da Silva se apresenta como biomédica esteta em Guarulhos, São Paulo. O site informa o registro CRBM1/SP 68840 e pós-graduação em estética avançada.
 
-## Páginas
-- [Página inicial](https://SEU-DOMINIO.com.br/): tratamentos, resultados, sobre a Dra. Vanessa e perguntas frequentes
+## Páginas informativas
+- Início: https://dravanessacacao.vercel.app/
+- Toxina botulínica: https://dravanessacacao.vercel.app/toxina-botulinica-guarulhos.html
+- Harmonização facial: https://dravanessacacao.vercel.app/harmonizacao-facial-guarulhos.html
+- Harmonização glútea: https://dravanessacacao.vercel.app/harmonizacao-glutea-guarulhos.html
+
+## Atendimento
+Informações de agendamento, localização completa e disponibilidade são confirmadas pelos canais oficiais apresentados no site.
+
+## Observação
+As informações são educativas e não substituem avaliação presencial individual. Não há garantia de resultados estéticos.
